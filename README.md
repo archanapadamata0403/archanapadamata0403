@@ -1,10 +1,5 @@
 ## Hi there 👋
 I'm Padamata Archana
-<!--
-**archanapadamata0403/archanapadamata0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭  I'm a Master's student in Computer Science at **Lamar University**, passionate about building intelligent systems and solving real-world problems with technology.I’m currently working on ...
 -
 - 👯 I’m looking to collaborate on:  
